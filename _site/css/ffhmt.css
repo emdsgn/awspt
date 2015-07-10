@@ -697,7 +697,7 @@ body {
 .flex-logo {
 	width: 100%;
 	vertical-align: text-bottom;
-	max-width: 120px;
+	max-width: 113px;
 	padding: 1em;
 	float: left;
 }
@@ -1697,7 +1697,7 @@ footer {
 	}
 
 	.bg {
-		background-color: rgba(0,0,0,0.7);
+		background-color: rgba(0,0,0,0.65);
 		position: relative;
 		text-align: center;
 		padding: 59px 0;
@@ -2050,7 +2050,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
  /* We just have one-lined elements, so we'll center the elements with the line-height set to the height of the header */
 .cbp-af-header h1,
 .cbp-af-header nav a {
-	line-height: 130px;
+	line-height: 114px;
 }
 
 .cbp-af-header h1 {
