@@ -1053,7 +1053,7 @@ footer {
 		width: 100%;
 		}
 		.bg {
-		background-color: rgba(0,0,0,0.7);
+		background-color: rgba(0,0,0,0.65);
 		position: relative;
 		text-align: center;
 		padding: 57px 0;
@@ -1169,7 +1169,7 @@ footer form {
 }
 
 .bg {
-		background-color: rgba(0,0,0,0.7);
+		background-color: rgba(0,0,0,0.65);
 		position: relative;
 		text-align: center;
 		padding: 72px 0;
