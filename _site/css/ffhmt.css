@@ -862,6 +862,18 @@ th {
   float: right;
 }
 
+.right {
+  display: inline-block;
+  float: right;
+  margin: 0px;
+}
+
+.left {
+  display: inline-block;
+  text-align: left;
+  margin: 0px;
+}
+
 .top {
 	display: block;
 	text-align: right;
@@ -1800,7 +1812,6 @@ h2 {
 
 .imp-date {
   padding: 0.5em;
-  text-align: right;
 }
 
 .reg {

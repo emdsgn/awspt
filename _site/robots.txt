@@ -1,0 +1,3 @@
+Sitemap: http://www.awspt.com/sitemap.xml
+
+User-agent: *
