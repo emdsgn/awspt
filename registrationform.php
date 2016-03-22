@@ -41,7 +41,7 @@ $message = build_message($_REQUEST);
 
 $message = 'Dear Colleague,
 
-Thank you for registering for AWSPT 2016. If you have requested any official letters, please allow up to 5 business days to receive your documents.
+Thank you for registering for AWSPT 2017. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
 If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@awspt.com. You can find the copyright form here: www.awspt.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
@@ -61,11 +61,11 @@ $message = stripslashes($message);
 
 $subject = "Registration Details for " . $_REQUEST['Email'];
 
-$your_headers = "From: AWSPT'16 <" . $my_email . ">";
+$your_headers = "From: AWSPT'17 <" . $my_email . ">";
 
 $your_email = $_REQUEST['Email'];
 
-$your_subject = "Your Registration Details for AWSPT'16";
+$your_subject = "Your Registration Details for AWSPT'17";
 
 $your_headers = "From: " . $my_email;
 
@@ -113,7 +113,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="air pollution conference, water pollution conference, soil pollution conference, air pollution and treatment conference, water pollution and treatment conference, soil pollution and treatment conference, air pollution, water pollution, soil pollution, wastewater pollution conference, wastewater pollution and treatment, climate change conference, global warming conference, ground water conference, air pollution and treatment, water pollution and treatment, soil pollution and treatment, environmental engineering, environmental engineering conference, environmental conference, environmental">
-<title>AWSPT'16 - Registration Form Filled!</title>
+<title>AWSPT'17 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -142,7 +142,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>AWSPT'16</h1>
+  <h1>AWSPT'17</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Paper Submissions</a></li>
@@ -184,8 +184,8 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>International Conference on Air, Water,<br>and Soil Pollution and Treatment (AWSPT'16)</h1>
-          <p class="subhead">March 30 - 31, 2016 | PRAGUE, CZECH REPUBLIC</p>
+          <h1>2<sup>nd</sup> International Conference on Air, Water,<br>and Soil Pollution and Treatment (AWSPT'17)</h1>
+          <p class="subhead">April 3 - 4, 2017 | Barcelona, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -210,8 +210,8 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>International Conference on Air, Water,<br>and Soil Pollution and Treatment (AWSPT'16)</h1>
-          <p class="subhead">March 30 - 31, 2016 | PRAGUE, CZECH REPUBLIC</p>
+          <h1>2<sup>nd</sup> International Conference on Air, Water,<br>and Soil Pollution and Treatment (AWSPT'17)</h1>
+          <p class="subhead">April 3 - 4, 2017 | Barcelona, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -238,8 +238,8 @@ mail($your_email,$your_subject,$message,$your_headers);
       <div id="main-slider" class="liquid-slider">
     <div>
       <h2 class="title">1</h2>
-      <p class="bold">AWSPT 2016:</p>
-      <p class="body">AWSPT 2016 will  be held in Ottawa, Canada on March 30 - 31, 2016.</p>
+      <p class="bold">AWSPT 2017:</p>
+      <p class="body">AWSPT 2017 will  be held in Barcelona, Spain on April 3 - 4, 2016</p>
       
       <p class="bold">Poster Board Dimensions:</p>
       <p class="body">Authors presenting via poster boards are to be informed that poster boards are 110 cm height and 80 cm width.</p>
@@ -268,7 +268,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
     <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@awspt.com" class="body-link">registration@awspt.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
-  <p class="body">We are looking forward to seeing you at AWSPT'16!</p>
+  <p class="body">We are looking forward to seeing you at AWSPT'17!</p>
   </div>
 </div>
 
@@ -294,13 +294,13 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    Feb. 15, 2016
+    TBA
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    Extended Early Bird Registration Deadline
+    Paper Submission Deadline
   </div>
 </div>
 </div>
@@ -309,27 +309,27 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    Feb. 20, 2016
+    TBA
+  </div>
+</div>
+
+<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
+  <div class="unit-spacer">
+    Notification of Authors
+  </div>
+</div>
+</div>
+
+<div class="grid events">
+<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
+  <div class="date">
+    TBA
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
     Camera Ready Submission Deadline
-  </div>
-</div>
-</div>
-
-<div class="grid events">
-<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-  <div class="date">
-    Mar. 1, 2016
-  </div>
-</div>
-
-<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
-  <div class="unit-spacer">
-    Extended Regualr Registration Deadline
   </div>
 </div>
 </div>
@@ -353,7 +353,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding AWSPT'16, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding AWSPT'17, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm">
   
