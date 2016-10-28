@@ -185,7 +185,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
         <div class="bg">
           <h1>2<sup>nd</sup> International Conference on Air, Water,<br>and Soil Pollution and Treatment (AWSPT'17)</h1>
-          <p class="subhead">April 3 - 4, 2017 | Barcelona, Spain</p>
+          <p class="subhead">April 2 - 4, 2017 | Barcelona, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -213,7 +213,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
         <div class="bg">
           <h1>2<sup>nd</sup> International Conference on Air, Water,<br>and Soil Pollution and Treatment (AWSPT'17)</h1>
-          <p class="subhead">April 3 - 4, 2017 | Barcelona, Spain</p>
+          <p class="subhead">April 2 - 4, 2017 | Barcelona, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -243,7 +243,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">AWSPT 2017:</p>
-      <p class="body">AWSPT 2017 will  be held in Barcelona, Spain on April 3 - 4, 2017  at the Alimara Hotel Barcelona.</p>
+      <p class="body">AWSPT 2017 will  be held in Barcelona, Spain on April 2 - 4, 2017  at the Alimara Hotel Barcelona.</p>
       
       <p class="bold">Poster Board Dimensions:</p>
       <p class="body">Authors presenting via poster boards are to be informed that poster boards are 130 cm height and 95 cm width.</p>
