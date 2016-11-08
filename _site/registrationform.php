@@ -1,4 +1,4 @@
-2<?php
+<?php
 $my_email = "registration@awspt.com";
 $errors = array();
 
@@ -59,15 +59,15 @@ $message = $message . PHP_EOL.PHP_EOL."-- ".PHP_EOL."";
 
 $message = stripslashes($message);
 
-$subject = "Registration Details for " . $_REQUEST['Email'];
+$subject = "Registration Details for " . $_REQUEST['email'];
 
-$your_headers = "From: AWSPT'17 <" . $my_email . ">";
+$headers = "From: " . $_REQUEST['email'];
 
-$your_email = $_REQUEST['Email'];
+$your_email = $_REQUEST['email'];
 
 $your_subject = "Your Registration Details for AWSPT'17";
 
-$your_headers = "From: " . $my_email;
+$your_headers = "From: AWSPT'17 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -128,7 +128,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <script src="../js/modernizr.custom.63321.js"></script>
 <script>
   (function() {
-    var cx = '016656741306535874023:y7as1mei7la';
+    var cx = '002879881986571969324:tfk04cls-go';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
@@ -140,6 +140,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </script>
 </head>
 
+<body>
 <body>
 <nav id="slide-menu">
   <h1>AWSPT'17</h1>
@@ -431,6 +432,8 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/jquery.validation/1.15.1/jquery.validate.min.js"></script>
+  <script src="../js/form-validation.js"></script>
   <script src="../js/jquery.nicescroll.min.js"></script>
   <script type="text/javascript" src="../js/jquery.calendario.js"></script>
     <script type="text/javascript" src="../js/data.js"></script>
@@ -571,3 +574,4 @@ var sprycheckbox1 = new Spry.Widget.ValidationCheckbox("sprycheckbox1");
 </script>
 </body>
 </html>
+
