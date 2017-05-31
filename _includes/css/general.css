@@ -1037,9 +1037,12 @@ right: 180px;
 	.panel-wrapper {  
 	  padding: 1em 2em!important;
 	}
-
 	.mob-link {
   font-size: inherit;
+	}
+.left {
+     margin-right: 2%;
+	 padding-bottom: 12px;
 }
 
 nav#slide-menu {
@@ -1421,6 +1424,8 @@ footer form {
   font-size: 0.85em!important;
 }
 
+
+
 .topics {
   margin: 0;
   padding: 0 0 1em 3em;
@@ -1455,6 +1460,7 @@ footer form {
 .cbp-af-header nav a {
   font-size: 0.9em!important;
 }
+
 }
 
 /* 1440 PX */
