@@ -408,7 +408,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
 </div>
 
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.15.1/jquery.validate.min.js"></script>
   <script src="../js/form-validation.js"></script>
   <script src="../js/jquery.nicescroll.min.js"></script>
