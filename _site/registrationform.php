@@ -67,9 +67,9 @@ $headers = "From: " . $_REQUEST['email'];
 
 $your_email = $_REQUEST['email'];
 
-$your_subject = "Your Registration Details for AWSPT'18";
+$your_subject = "Your Registration Details for AWSPT'19";
 
-$your_headers = "From: AWSPT'18 <" . $my_email . ">";
+$your_headers = "From: AWSPT'19 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -115,7 +115,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="air pollution conference, water pollution conference, soil pollution conference, air pollution and treatment conference, water pollution and treatment conference, soil pollution and treatment conference, air pollution, water pollution, soil pollution, wastewater pollution conference, wastewater pollution and treatment, climate change conference, global warming conference, ground water conference, air pollution and treatment, water pollution and treatment, soil pollution and treatment, environmental engineering, environmental engineering conference, environmental conference, environmental">
-<title>AWSPT'18 - Registration Form Filled!</title>
+<title>AWSPT'19 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -147,7 +147,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <body>
 <body>
 <nav id="slide-menu">
-  <h1>AWSPT'18</h1>
+  <h1>AWSPT'19</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Submissions</a></li>
@@ -188,8 +188,8 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on Air, Water,<br>and Soil Pollution and Treatment (AWSPT'18)</h1>
-          <p class="subhead">April 8 - 10, 2018 | Budapest, Hungary</p>
+          <h1>4<sup>th</sup> International Conference on Air, Water,<br>and Soil Pollution and Treatment (AWSPT'19)</h1>
+          <p class="subhead">April, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -214,8 +214,8 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on Air, Water,<br>and Soil Pollution and Treatment (AWSPT'18)</h1>
-          <p class="subhead">April 8 - 10, 2018 | Budapest, Hungary</p>
+          <h1>4<sup>th</sup> International Conference on Air, Water,<br>and Soil Pollution and Treatment (AWSPT'19)</h1>
+          <p class="subhead">April, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -253,7 +253,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
     <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@awspt.com" class="body-link">registration@awspt.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
-  <p class="body">We are looking forward to seeing you at AWSPT'18!</p>
+  <p class="body">We are looking forward to seeing you at AWSPT'19!</p>
   </div>
 </div>
 
@@ -283,7 +283,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding AWSPT'18, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding AWSPT'19, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">
