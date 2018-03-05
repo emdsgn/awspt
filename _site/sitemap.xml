@@ -1,114 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-   <url>
-
-      <loc>http://www.awspt.com/index.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-  <url>
-
-      <loc>http://www.awspt.com/papers.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.awspt.com/program.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.awspt.com/dates.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.awspt.com/registration.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.awspt.com/committee.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.awspt.com/keynote.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.awspt.com/sponsor.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.awspt.com/venue.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.awspt.com/accommodation.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.awspt.com/symposium.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
+<url>
+   <loc>http://2019.awspt.com/</loc>
+   <lastmod>2018-03-05T19:42:18+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/past-events/</loc>
+   <lastmod>2018-03-05T19:42:18+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/papers/</loc>
+   <lastmod>2018-03-05T19:42:18+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/program/</loc>
+   <lastmod>2018-03-05T19:42:18+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/dates/</loc>
+   <lastmod>2018-03-05T19:42:19+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/registration/</loc>
+   <lastmod>2018-03-05T19:42:18+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/committee/</loc>
+   <lastmod>2018-03-05T19:42:19+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/keynote/</loc>
+   <lastmod>2018-03-05T19:42:18+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/venue/</loc>
+   <lastmod>2018-03-05T19:42:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/accommodation/</loc>
+   <lastmod>2018-03-05T19:42:19+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/sponsor/</loc>
+   <lastmod>2018-03-05T19:42:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/symposium/</loc>
+   <lastmod>2018-03-05T19:42:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/past-events/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/terms/</loc>
+   <lastmod>2018-03-05T19:42:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/sitemap/</loc>
+   <lastmod>2018-03-05T19:42:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/AWSPT19_Paper_Template.docx</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/AWSPT19_Extended_Abstract.docx</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/AWSPT19_CopyrightForm.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/papers/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/program/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/dates/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/registration/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/committee/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/keynote/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/venue/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/accommodation/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/sponsor/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/symposium/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/terms/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/sitemap/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/banktobank/</loc>
+   <lastmod>2018-03-05T19:42:19+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/moneyorder/</loc>
+   <lastmod>2018-03-05T19:42:18+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/paypal/</loc>
+   <lastmod>2018-03-05T19:42:18+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/banktobank/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/moneyorder/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
+<url>
+   <loc>http://2019.awspt.com/paypal/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:41:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
 </urlset>
